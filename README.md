@@ -5,6 +5,9 @@
 [![Go Report
 Card](https://goreportcard.com/badge/github.com/rwxrob/yaml)](https://goreportcard.com/report/github.com/rwxrob/yaml)
 
+* [AsYAML Interface](yaml.go)
+* [Anything Marshaled as YAML](yaml_test.go)
+
 ## Why YAML?
 
 In a word, "inline". You can't do it with any JSON package, and since
